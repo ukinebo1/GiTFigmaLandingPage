@@ -1,0 +1,147 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    /* width: 1512px; */
+    /* box-sizing: border-box; */
+}
+
+nav{
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-between
+}
+.logo1{
+    padding-left: 104px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+
+}
+.log li{
+    padding-top: 54px;
+    padding-bottom: 54px;
+}
+/* nav,.logo,.log{
+    padding-top: 54px;
+    padding-left: 6px;
+    padding-right: 8px;
+    padding-bottom: 54px;
+} */
+
+.log{
+    list-style-type: none; 
+}
+
+.log,li{
+    display: inline-block;
+    /* padding: 10px 25px; */
+}
+
+.section1{
+    text-align: center;
+    margin-top: 64px;
+}
+.section1 p{
+    margin-top: 32px;
+}
+
+
+
+.btn1{
+    background-color:#6FC247;
+    color: #FFFF;
+    padding: 24px 40px 24px 40px;
+    margin-top: 32px;
+    height: 75px;
+    width: 278px;
+    left: 0px;
+    top: 0px;
+    border-radius: 16px;
+    border: 1px solid #6FC247;
+
+
+}
+.btn11{
+    padding-left: 20px;
+    /* padding-top: 7px;
+    padding-bottom: 4px; */
+    height: 16px;
+width: 16px;
+left: 4px;
+top: 4px;
+/* border-radius: 39px; */
+color: #FFFFFF;
+
+}
+
+.btn2{
+background-color: #f5f5f5;
+    color: #6FC247;
+
+    height: 75px;
+    width: 278px;
+    left: 310px;
+    top: 0px;
+    border-radius: 16px;
+    border: 1px solid #6FC247;
+    padding: 24px 40px 24px 40px;
+
+}
+
+.img11{
+    text-align: center;
+    margin-top: 64px;
+    /* position: absolute; */
+    height: 637px;
+/* width: 1260px; */
+left: 126px;
+top: 705px;
+
+
+}
+.description{
+    text-align: center;
+}
+
+.img51{
+    border: 1px solid;
+    width: 307px;
+    background-color: #F9F9F9;
+    ;
+}
+
+.imgsection{
+    display: grid;
+    grid-template-columns: auto auto auto ; 
+    /* grid-template-rows: auto auto auto; */
+}
+
+
+.div1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.info1{
+    display: flex;
+    justify-content: space-around;
+    /* margin: 5px; */
+
+}
+.info{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    padding: 8px;
+    /* align-items: center; */
+}
+.img1{
+    /* height: 50px; */
+} */
+.btn6{
+    text-align: center;
+    /* display: block; */
+    /* margin: 0 auto; */
+}
