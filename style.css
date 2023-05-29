@@ -41,6 +41,15 @@ nav{
     padding-bottom: 54px;
 } */
 
+.home{
+    color: #065666;
+
+}
+
+.lists{
+    color: #636363;
+
+}
 .log{
     list-style-type: none; 
 }
