@@ -30,8 +30,9 @@ nav{
 
 }
 .log li{
-    padding-top: 54px;
-    padding-bottom: 54px;
+    padding: 54px 25px;
+
+    /* gap: 10px; */
 }
 /* nav,.logo,.log{
     padding-top: 54px;
